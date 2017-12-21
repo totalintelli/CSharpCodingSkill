@@ -1,0 +1,6 @@
+D:\Projects\CSharpCodingSkill\CheckedContext\CheckedContext\bin\Debug\CheckedContext.exe.config
+D:\Projects\CSharpCodingSkill\CheckedContext\CheckedContext\bin\Debug\CheckedContext.exe
+D:\Projects\CSharpCodingSkill\CheckedContext\CheckedContext\bin\Debug\CheckedContext.pdb
+D:\Projects\CSharpCodingSkill\CheckedContext\CheckedContext\obj\Debug\CheckedContext.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpCodingSkill\CheckedContext\CheckedContext\obj\Debug\CheckedContext.exe
+D:\Projects\CSharpCodingSkill\CheckedContext\CheckedContext\obj\Debug\CheckedContext.pdb
